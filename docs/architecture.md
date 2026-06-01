@@ -1,13 +1,21 @@
 # Arquitectura
 
 ECB API
+
 ↓
+
 Python ETL
+
 ↓
+
 PostgreSQL
+
 ↓
+
 FastAPI
+
 ↓
+
 Streamlit Dashboard
 
 ## Flujo
